@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM Finetuning<br>👯 I’m looking to collaborate on Reinforcement Learning, LLM<br>🌱 I’m currently learning Reinforcement Learning, LLM/NLP, Deep Learning<br>💬 Ask me about Machine lEARNING<br>⚡ Fun fact
+🔭 I’m currently working on LLM Finetuning<br>👯 I’m looking to collaborate on Reinforcement Learning, LLM<br>🌱 I’m currently learning Reinforcement Learning, LLM/NLP, Deep Learning<br>💬 Ask me about Machine Learning<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
