@@ -1,6 +1,8 @@
 # 💫 About Me:  
-🔭 I’m currently working on **Mechanistic Interpretability** and **Diffusion models** 
-👯 I’m looking to collaborate on **Generative Modelling** projects  
+🔭 I’m currently working on **Mechanistic Interpretability** and **Diffusion models**
+
+👯 I’m looking to collaborate on **Generative Modelling** projects
+
 🌱 I’m currently learning **Reinforcement Learning**, **Bayesian Statistics**
 
 ## 🌐 Socials:  
