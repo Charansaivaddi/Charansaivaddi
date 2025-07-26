@@ -1,8 +1,7 @@
 # 💫 About Me:  
-🔭 I’m currently working on **LLM Fine-Tuning**  
-👯 I’m looking to collaborate on **Reinforcement Learning** and **LLM** projects  
-🌱 I’m currently learning **Reinforcement Learning**, **LLM/NLP**, and **Deep Learning**  
-💬 Ask me about **Machine Learning**, **Reinforcement Learning**, and **NLP**  
+🔭 I’m currently working on **Mechanistic Interpretability** and **Diffusion models** 
+👯 I’m looking to collaborate on **Generative Modelling** projects  
+🌱 I’m currently learning **Reinforcement Learning**, **Bayesian Statistics**
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charansaivaddi/)  
